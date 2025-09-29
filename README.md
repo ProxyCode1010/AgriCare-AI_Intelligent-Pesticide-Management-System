@@ -19,7 +19,7 @@
 - [Analytics Dashboard](#-analytics-dashboard)
 - [Impact & Benefits](#-impact--benefits)
 - [Future Scope](#-future-scope)
-- [License](#-license)
+- [Disclaimer](#-disclaimer)
 - [Developed During SIH 2025](#-developed-during-sih-2025)
 - [Conclusion](#-conclusion)
 
@@ -48,19 +48,31 @@ Traditional pesticide spraying techniques apply chemicals uniformly, regardless 
 ## ✨ Key Features
 
 ### 🔍 AI Disease Detection
-**38+ plant diseases detected with 97% accuracy**
+- **97% accuracy** across 38+ plant disease categories
+- Deep learning model trained on 87,000+ images
+- Real-time image analysis and diagnosis
+- Support for 14+ crop types
 
 ### 🎯 Precision Pesticide Recommendation
-**Smart dosage suggestions reduce usage by 60%**
+- Smart dosage suggestions **reduce usage by 60%**
+- Intelligent recommendations based on infection severity
+- Cost-effective treatment planning
 
 ### 📊 Interactive Dashboard
-**Real-time KPIs, health tracking, and cost savings**
+- Real-time KPIs and health tracking
+- Cost savings calculator
+- Disease trend analysis (last 30 days)
+- Environmental impact metrics
 
 ### 🤖 IoT Control Simulation
-**Smart sprayer integration for targeted spraying**
+- Smart sprayer integration for targeted application
+- Remote monitoring capabilities
+- Live telemetry and sensor data
 
 ### 🌍 Sustainable Farming Impact
-**Lower chemical footprint, healthier crops**
+- Lower chemical footprint
+- Healthier crops and safer food
+- Environmental protection
 
 ---
 
@@ -154,7 +166,7 @@ streamlit run main.py
 
 **Step 2:** Upload plant leaf image
 
-**Step 3:** View disease prediction + confidence
+**Step 3:** View disease prediction + confidence level
 
 **Step 4:** Get recommended pesticide & dosage
 
@@ -185,10 +197,10 @@ streamlit run main.py
 
 ### Features Include:
 
-- 🌿 **Crop Health Monitoring** (Healthy vs Infected)
-- 💧 **Pesticide Savings Calculator**
-- 📈 **Disease Trend Analysis** (last 30 days)
-- 🌍 **Environmental & Economic Impact Metrics**
+- 🌿 **Crop Health Monitoring** - Track healthy vs infected plants
+- 💧 **Pesticide Savings Calculator** - Calculate cost reductions
+- 📈 **Disease Trend Analysis** - 30-day historical data
+- 🌍 **Environmental Impact Metrics** - Monitor sustainability
 
 ---
 
@@ -196,14 +208,17 @@ streamlit run main.py
 
 ### Environmental Impact
 ✅ **60% less pesticide usage**  
-✅ **Reduced soil/water contamination**
+✅ **Reduced soil/water contamination**  
+✅ **Protection of beneficial organisms**
 
 ### Economic Benefits
 ✅ **40% cost savings for farmers**  
-✅ **Improved long-term crop yield**
+✅ **Improved long-term crop yield**  
+✅ **Reduced labor costs**
 
 ### Social Impact
-✅ **Safer food & farmer health**  
+✅ **Safer food production**  
+✅ **Better farmer health**  
 ✅ **Sustainable agriculture practices**
 
 ---
@@ -216,12 +231,20 @@ streamlit run main.py
 - 📡 **IoT sensor + satellite data fusion**
 - 🤖 **Reinforcement learning for adaptive control**
 - 📱 **Dedicated farmer mobile app**
+- 🌐 **Multi-language support**
+- ☁️ **Cloud-based deployment**
 
 ---
 
-## 📄 License
+## ⚠️ Disclaimer
 
-This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
+> **Note:** This application is developed for educational and research purposes as part of Smart India Hackathon 2025. 
+> 
+> - The AI predictions are based on trained models and may not be 100% accurate in all real-world scenarios
+> - Always consult with agricultural experts before making critical farming decisions
+> - The developers are not responsible for any crop damage, financial loss, or other consequences arising from the use of this application
+> - Use this tool as a supplementary aid alongside professional agricultural advice
+> - Pesticide application should always follow local regulations and safety guidelines
 
 ---
 
@@ -238,13 +261,30 @@ This project was created as part of **Smart India Hackathon 2025**
 
 **AgriCare AI** demonstrates how **AI + IoT** can transform agriculture by:
 
-- **Reducing chemical usage**
-- **Lowering costs**
-- **Protecting the environment**
+- **Reducing chemical usage** through precision targeting
+- **Lowering costs** for small and large-scale farmers
+- **Protecting the environment** through sustainable practices
 
-With further scaling, it can empower millions of farmers to practice **sustainable precision farming** while ensuring **food security** and **environmental safety**.
+With further scaling and real-world deployment, this system can empower millions of farmers to practice **sustainable precision farming** while ensuring **food security** and **environmental safety**.
 
 ---
 
 **Made with 🌱 for a sustainable future**
+
+---
 ```
+
+**Key Changes Made:**
+
+1. **Removed License section** entirely
+2. **Added Disclaimer section** with important warnings about:
+   - Educational/research purpose
+   - AI prediction limitations
+   - Need for professional consultation
+   - Developer liability protection
+   - Safety guidelines emphasis
+3. **Reorganized Key Features** section to avoid duplication with AI Disease Detection
+4. **Improved formatting** with better structure and clarity
+5. **Enhanced Future Scope** with additional realistic enhancements
+
+Copy this entire content and paste it into your `README.md` file on GitHub.
