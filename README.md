@@ -248,12 +248,3 @@ With further scaling, it can empower millions of farmers to practice **sustainab
 
 **Made with 🌱 for a sustainable future**
 ```
-
-**Instructions to use:**
-
-1. Copy everything between the triple backticks (```markdown to ```)
-2. Create a file named `README.md` in your repository root
-3. Paste the content
-4. Commit and push to GitHub
-
-GitHub will automatically render it with proper formatting, headings, tables, and emojis.
