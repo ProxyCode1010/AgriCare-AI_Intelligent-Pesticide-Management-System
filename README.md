@@ -270,21 +270,3 @@ With further scaling and real-world deployment, this system can empower millions
 ---
 
 **Made with 🌱 for a sustainable future**
-
----
-```
-
-**Key Changes Made:**
-
-1. **Removed License section** entirely
-2. **Added Disclaimer section** with important warnings about:
-   - Educational/research purpose
-   - AI prediction limitations
-   - Need for professional consultation
-   - Developer liability protection
-   - Safety guidelines emphasis
-3. **Reorganized Key Features** section to avoid duplication with AI Disease Detection
-4. **Improved formatting** with better structure and clarity
-5. **Enhanced Future Scope** with additional realistic enhancements
-
-Copy this entire content and paste it into your `README.md` file on GitHub.
