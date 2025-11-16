@@ -1,6 +1,5 @@
 # 🏆 Finalist – Smart India Hackathon (SIH) 2025 | Hardware Edition
-
-**Problem Statement ID: 25015
+Problem Statement ID: 25015
 
 # 🌾 AgriCare AI - Intelligent Pesticide Management System
 
